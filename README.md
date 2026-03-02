@@ -16,19 +16,13 @@ I work when I want to and mostly just have fun doing stuff and automating things
 ## 💻 Tech Stack
 
 **Languages:** Python, JavaScript, HTML  
-**Specialization:** Web Development & Hobby Projects  
+**Specialization:** Web Development & Hobby Projects  / Architecture
 **Expertise:** Rhino, Grasshopper, 3D Modeling
 
 ## 🎯 Featured Projects
 
 ### [Portfolio Website](https://thauyel.github.io)
 My personal portfolio showcasing my architecture and 3D modeling work. Built with passion and creativity!
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thauyel&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thauyel&layout=compact&theme=radical)
 
 ## 📚 Currently Learning
 
